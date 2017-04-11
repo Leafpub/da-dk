@@ -351,6 +351,6 @@ return [
     
     'language_code' => 'da-dk',
     'language_name' => 'Dansk',
-    'language_version' => '1.0.0'
+    'language_version' => '1.1.8'
     
 ];
